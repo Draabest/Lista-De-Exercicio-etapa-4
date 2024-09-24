@@ -1,4 +1,4 @@
-import java.time.LocalDate;
+import java.time.LocalDate; //Iportando a classe para trabalhar com datas
 
 public class Produto {
 
